@@ -38,8 +38,8 @@ List of Recommended Resources, Tools and Links
 
 (The mac guide here is a bit outdated and just for reference. I would suggest using Docker for php and Atom or Visual Studio Code as an IDE).
 
+- [MacOS Dev Setup](https://github.com/nicolashery/mac-dev-setup)
 - [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
-- [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
 
 ## Security
 
