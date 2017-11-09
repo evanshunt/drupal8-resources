@@ -85,6 +85,7 @@ List of Recommended Resources, Tools and Links
 
 ### Community
 
+- [Slack](https://drupal.slack.com)
 - [Reddit](https://www.reddit.com/r/drupal/)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/drupal)
 - [`@drupal` on Twitter](https://twitter.com/drupal)
